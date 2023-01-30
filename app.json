@@ -1,0 +1,7 @@
+{
+    "name": "dcbell",
+    "description": "A powerful music bot for your Discord server! With DCBell, you can easily play music from popular music streaming services like YouTube, Soundcloud, and more!",
+    "repository": "https://github.com/uaytug/DcBell-beta-public",
+    "logo": "https://cdn.discordapp.com/attachments/1028272753993863248/1069558148345647165/dcbell-logo.png",
+    "keywords": ["discord", "discordjs", "music", "bot"]
+  }
