@@ -1,0 +1,38 @@
+{
+  "name": "dcbell",
+  "version": "0.2",
+  "description": "A powerful music bot for your Discord server! With DCBell, you can easily play music from popular music streaming services like YouTube, Soundcloud, and more!",
+  "main": "index.js",
+  "dependencies": {
+    "@discordjs/builders": "^1.4.0",
+    "@discordjs/opus": "^0.8.0",
+    "@discordjs/rest": "^1.4.0",
+    "@discordjs/voice": "^0.11.0",
+    "@distube/deezer": "^1.0.0",
+    "@distube/soundcloud": "^1.3.0",
+    "@distube/spotify": "^1.5.1",
+    "@distube/yt-dlp": "^1.1.3",
+    "@distube/ytdl-core": "^4.11.7",
+    "@top-gg/sdk": "^3.1.3",
+    "discord.js": "^14.7.1",
+    "distube": "^4.0.4",
+    "express": "^4.18.1",
+    "ffmpeg": "^0.0.4",
+    "ffmpeg-static": "^4.4.1",
+    "libsodium-wrappers": "^0.7.10",
+    "mongoose": "^6.8.2",
+    "sapphire": "^0.0.3",
+    "topgg-autoposter": "^2.0.1"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "U. Aytug Semerci <umut-aytug@hotmail.com>",
+  "license": "GNU",
+  "homepage": "https://github.com/uaytug/DcBell-beta-public",
+  "repository": "github/uaytug/DiscordBOT-beta",
+  "bugs": "https://github.com/uaytug/DcBell-beta-public/issues",
+  "engines": {
+    "node": "17.x"
+  }
+}
